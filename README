@@ -1,6 +1,6 @@
 //INSTRUCTIONS FOR WORD SEARCH SOLVER
 
-Prepare Word Search in a .txt or .dat file.
+Prepare Word Search in a .txt or .dat file with number of rows and columns at the top with a space in between. (ie. 4 6) 
 
 1. Read in Word Search
 2. Type in word to search
